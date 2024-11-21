@@ -1,0 +1,7 @@
+venv/
+gitignore
+ideas.txt
+.env
+auto_park/parking/migrations/*
+auto_park/users/migrations/*
+__pycache__
